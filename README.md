@@ -7,3 +7,9 @@ The app is a real-time chat application that uses the socket.io library for bi-d
 The app was deployed to Heroku.
 
 created by: Simon Lee
+
+Instructions:
+#### git clone https://github.com/simonhlee97/simon-socket.git
+#### (cd into this project's directory)
+#### npm install
+#### npm run dev
